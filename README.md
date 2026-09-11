@@ -1,7 +1,6 @@
 <p align="center">
   <img src="stats-dashboard.svg" alt="GitHub Stats Dashboard" width="850"/>
 </p>
-
 <table>
   <tr>
     <td valign="centre"><img src="terminal-card.svg" alt="ASCII Portrait" width="400"/></td>
