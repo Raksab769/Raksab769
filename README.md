@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="stats-dashboard.svg" alt="GitHub Stats Dashboard" width="850"/>
+  <img src="github-contribution-animation.svg" alt="GitHub Contribution Graph" width="850"/>
 </p>
 <table>
   <tr>
